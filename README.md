@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -134,7 +133,7 @@
                 Hi, I'm <span class="gradient-text">Asef Amin Araf</span>
             </h1>
             <p class="text-xl md:text-2xl text-gray-400 mb-4">
-                Product Manager &nbsp;·&nbsp; SaaS Specialist &nbsp;·&nbsp; EEE Engineer
+                Product Manager &nbsp;·&nbsp; SaaS & Fintech Product Enthusiast &nbsp;·&nbsp; Growth Thinker
             </p>
             <p class="text-base text-gray-500 max-w-2xl mx-auto mb-10 leading-relaxed">
                 3+ years leading SaaS products across the full lifecycle — from strategy and roadmapping to launch and growth.
